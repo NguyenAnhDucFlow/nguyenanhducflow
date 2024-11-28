@@ -10,8 +10,6 @@
 - 📫 How to reach me **anhduc00321@gmail.com**
 
 - ⚡ Fun fact **I’m not sure if my coding skills have improved, but my Google-fu has definitely leveled up!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
